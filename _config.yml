@@ -78,3 +78,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
+domain: 'https://successful-kangaroo-1db55.netlify.app'
